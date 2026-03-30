@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/pj82c0j1/image.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/pj82c0j1/image.png" height="75px"/></a>
 
 ## 📶 Liens
 - **[YouTube](https://www.youtube.com/@13mdj)**
